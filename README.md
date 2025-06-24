@@ -1,1 +1,1 @@
-# badges
+# badges for the account
